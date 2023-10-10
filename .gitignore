@@ -29,3 +29,5 @@ hs_err_pid*
 # Misc
 .vscode
 .DS_Store
+.in
+.out
